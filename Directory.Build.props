@@ -1,0 +1,9 @@
+<Project>
+
+  <PropertyGroup>
+    <NuGetLocalFeedPath>$(MSBuildThisFileDirectory)NuGetLocalFeed</NuGetLocalFeedPath>
+    <CustomAnalyzerVersion>1.14.514</CustomAnalyzerVersion>
+  </PropertyGroup>
+
+</Project>
+  
